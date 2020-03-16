@@ -1,1 +1,12 @@
+#*********************************************************
+# 
+# Copyright (c), Digac.cc
+# https://github.com/etotakeo/AdGuardDNSPassList
+# 
+#*********************************************************
+# DNS ad block list for myself
+#*********************************************************
+#url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
+#version=0000001
+#*********************************************************
 127.0.0.1 stats.chinaz.com
