@@ -6,7 +6,7 @@
 #*********************************************************
 # DNS ad blocking whitelist
 #*********************************************************
-#url=https://raw.githubusercontent.com/etotakeo/gfwlist/master/DNS-Pass-List
+#url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
 #version=0000001
 #*********************************************************
 @@||digac.cc^
