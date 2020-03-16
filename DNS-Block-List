@@ -9,4 +9,4 @@
 #url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
 #version=0000001
 #*********************************************************
-127.0.0.1 stats.chinaz.com
+||stats.chinaz.com^
