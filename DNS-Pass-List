@@ -1,13 +1,13 @@
 #*********************************************************
+# 
 # Copyright (c), Digac.cc
-# https://github.com/etotakeo/gfwlist
-# Power By gfwlist
-# https://github.com/gfwlist/gfwlist
+# https://github.com/etotakeo/AdGuardDNSPassList
+#
 #*********************************************************
-# DNS ad blocking whitelist
+# DNS ad blocking whitelist for AdGuard Home
 #*********************************************************
 #url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
-#version=0000001
+#version=20200320001
 #*********************************************************
 !--------Commonly used--------
 @@||digac.cc^
@@ -28,7 +28,7 @@
 @@||tampermonkey.net^
 @@||qiong.ru^
 @@||zeronet.io^
-!--------cj.com--------
+!--------digac.cc page advertisement--------
 @@||merlinblog.xyz^
 @@||www.lduhtrp.net^$important
 @@||www.awltovhc.com^$important
