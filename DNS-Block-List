@@ -1,13 +1,13 @@
 #*********************************************************
 # 
-# Copyright (c), Digac.cc
+# Copyright (c) Digac.cc
 # https://github.com/etotakeo/AdGuardDNSPassList
 # 
 #*********************************************************
-# DNS ad block list for myself
+# DNS ad block list for AdGuard Home
 #*********************************************************
-#url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
-#version=0000001
+# url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
+# version=20200320001
 #*********************************************************
 ||stats.chinaz.com^
 ||s3m3.nzwgs.com^
