@@ -7,12 +7,15 @@
 # DNS ad block list for AdGuard Home
 #*********************************************************
 # url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
-# version=20200320001
+# version=20200323001
 #*********************************************************
 ||stats.chinaz.com^
 ||s3m3.nzwgs.com^
-||ssxd.mediav.com^
+||mediav.com^
 ||nzbdw.com^
 ||adclick.g.doubleclick.net^
 ||cpro.baidu.com^
 ||srd.simba.taobao.com^
+||s3m.mediav.com^
+||p4psearch.1688.com^
+||wan.liebao.cn^
