@@ -7,7 +7,7 @@
 # DNS ad blocking whitelist for AdGuard Home
 #*********************************************************
 # url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
-# version=20200320001
+# version=20200323001
 #*********************************************************
 !--------Commonly used--------
 @@||digac.cc^
@@ -36,4 +36,4 @@
 @@||www.tqlkg.com^$important
 @@||www.ftjcfx.com^$important
 !--------customize--------
-@@||githubusercontent.com^
+
