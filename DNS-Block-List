@@ -1,14 +1,16 @@
-#*********************************************************
-# 
-# Copyright (c) Digac.cc
-# https://github.com/etotakeo/AdGuardDNSPassList
-# 
-#*********************************************************
-# DNS ad block list for AdGuard Home
-#*********************************************************
-# url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
-# version=20200323001
-#*********************************************************
+! *********************************************************
+!  
+! Copyright (c) Digac.cc
+! https://github.com/etotakeo/AdGuardDNSPassList
+!  
+! *********************************************************
+! DNS ad block list for AdGuard Home
+! Title: DNS-Block-List
+! Expires: 1 days
+! *********************************************************
+! url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
+! version=20200323001
+! *********************************************************
 ||stats.chinaz.com^
 ||nzwgs.com^
 ||mediav.com^
