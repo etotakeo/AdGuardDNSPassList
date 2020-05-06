@@ -9,7 +9,7 @@
 ! Expires: 1 days
 !*********************************************************
 ! url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
-! version=20200506001
+! version=20200506002
 !*********************************************************
 !--------Commonly used--------
 @@||digac.cc^
@@ -45,3 +45,4 @@
 @@||moonbit.co.in^
 @@||fuwu.biz.weibo.com^
 @@||tongji.baidu.com^
+@@||tongji.digac.cc^
