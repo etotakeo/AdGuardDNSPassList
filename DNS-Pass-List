@@ -9,13 +9,12 @@
 ! Expires: 1 days
 !*********************************************************
 ! url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
-! version=20200506002
+! version=2020051701
 !*********************************************************
 !--------Commonly used--------
 @@||digac.cc^
 @@||digac.top^
 @@||pthome.net^
-@@||gaytorrent.tw^
 @@||vnas.me^
 @@||digac.tk^
 @@||gaytube.com^
@@ -23,13 +22,19 @@
 @@||s3.amazonaws.com^
 @@||2dbook.com^
 @@||4tern.com^
-@@||qafone.co^
-@@||qafone.org^
-@@||qafone.net^
 @@||pthome.net^
 @@||tampermonkey.net^
 @@||qiong.ru^
 @@||zeronet.io^
+!--------Adult used--------
+@@||gaytorrent.tw^
+@@||gaytube.com^
+@@||qafone.co^
+@@||qafone.org^
+@@||qafone.net^
+@@||gay-torrents.net^
+@@||gay-torrents.org^
+@@||boyfriendtv.com^
 !--------digac.cc page advertisement--------
 @@||merlinblog.xyz^
 @@||www.lduhtrp.net^$important
