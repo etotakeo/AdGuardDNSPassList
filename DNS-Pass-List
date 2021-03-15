@@ -9,7 +9,7 @@
 ! Expires: 1 days
 !*********************************************************
 ! url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Pass-List
-! version=2020051701
+! version=2021031501
 !*********************************************************
 !--------Commonly used--------
 @@||digac.cc^
@@ -39,6 +39,8 @@
 @@||gay-torrents.net^
 @@||gay-torrents.org^
 @@||boyfriendtv.com^
+@@||gaytorrent.ru^
+
 !--------digac.cc page advertisement--------
 @@||merlinblog.xyz^
 @@||www.lduhtrp.net^$important
@@ -47,8 +49,10 @@
 @@||www.tqlkg.com^$important
 @@||www.ftjcfx.com^$important
 @@||cj.com^$important
+
 !--------WeChat public account platform--------
 @@||weixin.qq.com^
+
 !--------customize--------
 @@||web.umeng.com^
 @@||moonbit.co.in^
