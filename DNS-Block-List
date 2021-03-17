@@ -9,7 +9,7 @@
 ! Expires: 1 days
 ! *********************************************************
 ! url=https://raw.githubusercontent.com/etotakeo/AdGuardDNSPassList/master/DNS-Block-List
-! version=20200323001
+! version=2021031701
 ! *********************************************************
 ||stats.chinaz.com^
 ||nzwgs.com^
@@ -28,3 +28,14 @@
 ||rebrand.ly^
 ||hd.rrys.tv^
 ||webresource.english.c-ctrip.com^
+!--------Advertisement--------
+||merlinblog.xyz^
+||www.lduhtrp.net^
+||www.awltovhc.com^
+||www.yceml.net^
+||www.tqlkg.com^
+||www.ftjcfx.com^
+||cj.com^$important
+||web.umeng.com^
+||moonbit.co.in^
+||tongji.baidu.com^
